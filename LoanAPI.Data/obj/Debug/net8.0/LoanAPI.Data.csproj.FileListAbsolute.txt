@@ -1,0 +1,17 @@
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\bin\Debug\net8.0\LoanAPI.Data.deps.json
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\bin\Debug\net8.0\LoanAPI.Data.runtimeconfig.json
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\bin\Debug\net8.0\LoanAPI.Data.dll
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\bin\Debug\net8.0\LoanAPI.Data.pdb
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\bin\Debug\net8.0\LoanAPI.Domain.dll
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\bin\Debug\net8.0\LoanAPI.Domain.pdb
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\obj\Debug\net8.0\LoanAPI.Data.csproj.AssemblyReference.cache
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\obj\Debug\net8.0\LoanAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\obj\Debug\net8.0\LoanAPI.Data.AssemblyInfoInputs.cache
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\obj\Debug\net8.0\LoanAPI.Data.AssemblyInfo.cs
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\obj\Debug\net8.0\LoanAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\obj\Debug\net8.0\LoanAPI..3B149D77.Up2Date
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\obj\Debug\net8.0\LoanAPI.Data.dll
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\obj\Debug\net8.0\refint\LoanAPI.Data.dll
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\obj\Debug\net8.0\LoanAPI.Data.pdb
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\obj\Debug\net8.0\LoanAPI.Data.genruntimeconfig.cache
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Data\obj\Debug\net8.0\ref\LoanAPI.Data.dll

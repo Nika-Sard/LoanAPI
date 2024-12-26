@@ -1,0 +1,11 @@
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Domain\bin\Debug\net8.0\LoanAPI.Domain.deps.json
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Domain\bin\Debug\net8.0\LoanAPI.Domain.dll
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Domain\bin\Debug\net8.0\LoanAPI.Domain.pdb
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Domain\obj\Debug\net8.0\LoanAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Domain\obj\Debug\net8.0\LoanAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Domain\obj\Debug\net8.0\LoanAPI.Domain.AssemblyInfo.cs
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Domain\obj\Debug\net8.0\LoanAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Domain\obj\Debug\net8.0\LoanAPI.Domain.dll
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Domain\obj\Debug\net8.0\refint\LoanAPI.Domain.dll
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Domain\obj\Debug\net8.0\LoanAPI.Domain.pdb
+C:\Users\nikas\RiderProjects\LoanAPI\LoanAPI.Domain\obj\Debug\net8.0\ref\LoanAPI.Domain.dll
